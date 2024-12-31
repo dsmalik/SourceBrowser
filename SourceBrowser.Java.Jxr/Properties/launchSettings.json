@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SourceBrowser.Java.Jxr": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SourceBrowser": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Java", "Java", "{12DB3820-AB42-4D2F-AEF4-C234C9112353}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Net", "Net", "{07AE6216-95FD-429C-B770-1C8E166010C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{F13D3474-3D6B-4172-8940-7711C4020105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceBrowser.Java.Jxr", "SourceBrowser.Java.Jxr\SourceBrowser.Java.Jxr.csproj", "{1C100272-4DFC-497B-AC06-78C872CEB444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceBrowser.SourceDownloader", "SourceBrowser.SourceDownloader\SourceBrowser.SourceDownloader.csproj", "{D58CC234-4920-4757-87E5-F34F83CCD61D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{FCFB9E83-EBF9-48A9-8AAA-01FE5DF65990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceBrowser", "SourceBrowser\SourceBrowser.csproj", "{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C100272-4DFC-497B-AC06-78C872CEB444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C100272-4DFC-497B-AC06-78C872CEB444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C100272-4DFC-497B-AC06-78C872CEB444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C100272-4DFC-497B-AC06-78C872CEB444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D58CC234-4920-4757-87E5-F34F83CCD61D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D58CC234-4920-4757-87E5-F34F83CCD61D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D58CC234-4920-4757-87E5-F34F83CCD61D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D58CC234-4920-4757-87E5-F34F83CCD61D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1C100272-4DFC-497B-AC06-78C872CEB444} = {12DB3820-AB42-4D2F-AEF4-C234C9112353}
+		{D58CC234-4920-4757-87E5-F34F83CCD61D} = {F13D3474-3D6B-4172-8940-7711C4020105}
+		{7A438A6C-C188-4AAE-BD8A-9DF8AF2D502E} = {FCFB9E83-EBF9-48A9-8AAA-01FE5DF65990}
+	EndGlobalSection
+EndGlobal
